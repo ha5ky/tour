@@ -61,3 +61,9 @@ at https://github.com/golang/tour/issues.
 
 Unless otherwise noted, the go-tour source files are distributed
 under the BSD-style license found in the LICENSE file.
+
+ | 要求     | 内存  | CPU  |
+ | :------: | :---: | :--: |
+ | 最低     | 512MB | 1    |
+ | 建议最低 | 1G    | 1    |
+ | 推荐     | 8G    | 4    |
